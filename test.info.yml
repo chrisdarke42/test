@@ -1,0 +1,5 @@
+name: Test Module
+type: module
+description: 'Testing a composer installed custom module.'
+core_version_requirement: ^10
+
