@@ -1,0 +1,6 @@
+{
+  "name": "chrisdarke/test",
+  "description": "Test module for composer package install.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later"
+}
